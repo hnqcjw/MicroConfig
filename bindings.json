@@ -2,8 +2,9 @@
     "Alt-/": "lua:comment.comment",
     "Alt-d": "command:definition",
     "Alt-f": "command:format",
+    "Ctrl-p": "EndOfLine",
     "Alt-k": "command:hover",
     "Alt-r": "command:references",
     "CtrlSpace": "command:lspcompletion",
-    "CtrlUnderscore": "lua:comment.comment"
+	"CtrlUnderscore": "lua:comment.comment"
 }
